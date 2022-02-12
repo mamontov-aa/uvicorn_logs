@@ -2,7 +2,7 @@ To install app run:
 $ ./setup.sh
 
 Then activate venv:
-$ . ./venc/bin/activate
+$ . ./venv/bin/activate
 
 Run app:
 $ python app.py [optional PORT=8080]
